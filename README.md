@@ -35,8 +35,8 @@ so stakeholders can see month-over-month movement directly.
 - Madhya Pradesh (₹7.38K) and Maharashtra (₹6.96K) lead revenue by state
 - Clothing dominates category mix at 63% of quantity sold
 - COD (44%) and UPI (21%) together cover two-thirds of payment volume
-- **Rajasthan is currently unprofitable** (-₹0.32K) despite positive revenue — flagged for investigation
-- Profit turned negative in **May, July, August, September, and December** — a recurring dip worth a seasonal review
+- **Rajasthan is currently unprofitable** (-₹0.32K) despite positive revenue flagged for investigation
+- Profit turned negative in **May, July, August, September, and December** a recurring dip worth a seasonal review
 - Printers (₹8.6K) and Bookcases (₹6.5K) are the strongest sub-categories by profit
 
 ## Outcome
