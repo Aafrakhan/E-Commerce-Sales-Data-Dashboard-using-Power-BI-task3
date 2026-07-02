@@ -8,7 +8,7 @@ sales, profit, and growth signals at a glance, and supports drill-down into stat
 Power BI Desktop (free)
 
 ## Dataset
-Indian e-commerce Sales & Financial dataset (sourced from Kaggle) — 
+Indian e-commerce Sales & Financial dataset (sourced from Kaggle) — (Details and Orders data)
 order-level records across states, product categories, sub-categories, customers, and payment modes.
 
 ## KPIs Selected
